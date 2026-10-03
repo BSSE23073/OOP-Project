@@ -1,0 +1,51 @@
+[
+   {
+      "name": "chicken",
+      "organic": true,
+      "price": 0.2,
+      "quantity": 9850.0,
+      "unit": "grams"
+   },
+   {
+      "name": "cheese",
+      "organic": true,
+      "price": 0.93,
+      "quantity": 99.0,
+      "unit": "slices"
+   },
+   {
+      "name": "bun",
+      "organic": true,
+      "price": 0.55,
+      "quantity": 99.0,
+      "unit": "Packs"
+   },
+   {
+      "name": "bread crumbs",
+      "organic": true,
+      "price": 0.4,
+      "quantity": 10000.0,
+      "unit": "grams"
+   },
+   {
+      "name": "chocolate",
+      "organic": false,
+      "price": 0.34,
+      "quantity": 999.75,
+      "unit": "grams"
+   },
+   {
+      "name": "milk",
+      "organic": false,
+      "price": 0.94,
+      "quantity": 500.0,
+      "unit": "litre"
+   },
+   {
+      "name": "lettuce",
+      "organic": false,
+      "price": 1.23,
+      "quantity": 99.0,
+      "unit": "piece"
+   }
+]

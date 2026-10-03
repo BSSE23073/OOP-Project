@@ -1,0 +1,66 @@
+{
+  "Answers": [
+    {
+      "Answer": "If you're experiencing trouble booking tickets, please ensure your payment information is up to date and that you've selected the correct showtime and seat."
+    },
+    {
+      "Answer": "If your payment isn't going through, check if your card is valid and has sufficient funds. For persistent issues, please try an alternative payment method."
+    },
+    {
+      "Answer": "You can cancel your booking from your account under Cancel Booking in Menu. Refunds are processed according to our refund policy."
+    },
+    {
+      "Answer": "For the latest Showtime and any unexpected schedule changes, please visit our showtime page."
+    },
+    {
+      "Answer": "Our Membership program offers discounts and more."
+    },
+    {
+      "Answer": "Your feedback is important to us! Please submit it through the feedback form "
+    },
+    {
+      "Answer": "To access member-exclusive content, please ensure you are logged in with your member account."
+    },
+    {
+      "Answer": "Age restrictions are based on the content rating of each film. You can find this information on the film’s detail page on our website. Please ensure that you meet the age requirement before booking tickeet."
+    },
+    {
+      "Answer": "You can update your contact information through your profile settings on our website."
+    }
+  ],
+  "Complaints": [
+    {
+      "Complain": "Booking System Should be improved."
+    }
+  ],
+  "Questions": [
+    {
+      "Question": "Difficulty in booking tickets online"
+    },
+    {
+      "Question": "Issues with payment processing or payment gateways"
+    },
+    {
+      "Question": "Users wanting to know how to cancel tickets and if they are eligible for refunds."
+    },
+    {
+      "Question": "Asking about Movie Showtime or last-minute changes to schedules."
+    },
+    {
+      "Question": "Queries about benefits, how to join."
+    },
+    {
+      "Question": "Users wanting to provide feedback or file complaints."
+    },
+    {
+      "Question": "Difficulty accessing member-exclusive content"
+    },
+    {
+      "Question": "Inquiries about age restrictions for certain films."
+    },
+    {
+      "Question": "Questions on how to update contact information."
+    }
+  ],
+  "Suggestions": null
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "Cast": [
+      {
+        "Age": 19,
+        "Gender": "Male",
+        "Name": "Robert Downey Jr,",
+        "Nationality": "American",
+        "Role": "Iron Man"
+      },
+      {
+        "Age": 22,
+        "Gender": "Male",
+        "Name": "Tom Holland",
+        "Nationality": "British",
+        "Role": "Spider-Man"
+      },
+      {
+        "Age": 44,
+        "Gender": "Male",
+        "Name": "Chris Evans",
+        "Nationality": "British",
+        "Role": "Captain America"
+      }
+    ],
+    "Feedbacks": null,
+    "Genre": [
+      {
+        "Genre Name": "Action"
+      }
+    ],
+    "Movie Description": "Worlds Most top grossing movie , A big super hit!!!",
+    "Movie Duration": 180,
+    "Movie Name": "Avengers Endgame",
+    "Movie PgRating": 12,
+    "Movie Production": {
+      "DOP": "Eva",
+      "Director": "Mark",
+      "Editor": "",
+      "Producer": "Irvin",
+      "Production Company": "Marvel"
+    }
+  },
+  {
+    "Cast": [
+      {
+        "Age": 12,
+        "Gender": "Male",
+        "Name": "Richard Belvin",
+        "Nationality": "British",
+        "Role": "Steward"
+      }
+    ],
+    "Feedbacks": null,
+    "Genre": [
+      {
+        "Genre Name": "Comedy"
+      }
+    ],
+    "Movie Description": "A child left alnoe in home experiences a thrilling experience ",
+    "Movie Duration": 135,
+    "Movie Name": "Home Alone",
+    "Movie PgRating": 6,
+    "Movie Production": {
+      "DOP": "Kita",
+      "Director": "Harry",
+      "Editor": "",
+      "Producer": "Olbvin",
+      "Production Company": "Paramount"
+    }
+  }
+]

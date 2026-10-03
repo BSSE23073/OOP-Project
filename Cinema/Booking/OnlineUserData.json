@@ -1,0 +1,32 @@
+[
+  {
+    "Age": 19,
+    "Bookings": null,
+    "Email Address": "123",
+    "Gender": "Femalw",
+    "MemberShip": {
+      "Expiry Date": "",
+      "Membership Discount": 0.0,
+      "Membership ID": "",
+      "Status": false
+    },
+    "Name": "Areeba",
+    "Password": "123",
+    "UserName": "areeba"
+  },
+  {
+    "Age": 19,
+    "Bookings": null,
+    "Email Address": "999",
+    "Gender": "Male",
+    "MemberShip": {
+      "Expiry Date": "",
+      "Membership Discount": 0.0,
+      "Membership ID": "",
+      "Status": false
+    },
+    "Name": "nauraiz",
+    "Password": "11",
+    "UserName": "000"
+  }
+]

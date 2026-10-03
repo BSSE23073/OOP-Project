@@ -1,0 +1,38 @@
+{
+    "A1": {
+        "license_plate": "",
+        "model": ""
+    },
+    "A2": {
+        "license_plate": "A1",
+        "model": "MarkX"
+    },
+    "A3": {
+        "license_plate": "",
+        "model": ""
+    },
+    "B1": {
+        "license_plate": "",
+        "model": ""
+    },
+    "B2": {
+        "license_plate": "eee",
+        "model": "qqq"
+    },
+    "B3": {
+        "license_plate": "",
+        "model": ""
+    },
+    "C1": {
+        "license_plate": "",
+        "model": ""
+    },
+    "C2": {
+        "license_plate": "",
+        "model": ""
+    },
+    "C3": {
+        "license_plate": "AAA",
+        "model": "444"
+    }
+}
